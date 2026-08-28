@@ -1,11 +1,8 @@
-# Permitir el propio archivo .gitignore
-!.gitignore
+*
 
-#Permitir la carpeta DataSets y todo lo que tenga adentro
+!.gitignore
 !DataSets/
 !DataSets/**
-
-#Archivos específicos permitidos
 !N5-Curso-actualizado.ipynb
 !Notebook 6-actualizado.ipynb
 !Notebook 7-actualizado.ipynb
