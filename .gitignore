@@ -1,8 +1,12 @@
 *
-
+# Ignora todos los archivos excepto los que se indican a continuación
 !.gitignore
+# Ignora todos los archivos de la carpeta DataSets excepto los que se indican a continuación
 !DataSets/
 !DataSets/**
+# Ignora todos los archivos de Jupyter Notebook excepto los que se indican a continuación
 !N5-Curso-actualizado.ipynb
 !Notebook 6-actualizado.ipynb
 !Notebook 7-actualizado.ipynb
+# Detalla cada librerira que instale para correr los notebooks
+!requirements.txt
