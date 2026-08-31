@@ -18,7 +18,8 @@ Este repositorio contiene los notebooks, ejercicios prácticos y conjuntos de da
 | Fecha | Descripción de la Actualización | Archivos Afectados |
 | :--- | :--- | :--- |
 | 28/08/2026 | Configuración inicial del repositorio y subida de primeros notebooks resueltos. | `.gitignore`, `N5-Curso-actualizado.ipynb`, `Notebook 6-actualizado.ipynb` |
-| 29/08/2026 | Resolución de los ejercicios del notebook 6 con sus respectivas explicaciones. | `Notebook 6-actualizado.ipynb` |
+| 29/08/2026 | Resolución de los ejercicios del notebook 6 con sus respectivas explicaciones. | `Notebook 6-actualizado.ipynb` | 
+| 30/08/2026 | Corrección de errores propios del documento y resolución de los ejercicios 10 en adelante del notebook 7. | `Notebook 6-actualizado.ipynb` `Notebook 7-actualizado.ipynb`  |
 
 ---
 
