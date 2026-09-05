@@ -5,6 +5,7 @@
 !DataSets/
 !DataSets/**
 # Ignora todos los archivos de Jupyter Notebook excepto los que se indican a continuación
+!Practicas_extras.ipynb
 !Notebook 1-actualizado.ipynb
 !Notebook 2-actualizado.ipynb
 !Notebook 3-actualizado.ipynb
