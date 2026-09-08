@@ -21,6 +21,7 @@ Este repositorio contiene los notebooks, ejercicios prácticos y conjuntos de da
 | 29/08/2026 | Resolución de los ejercicios del notebook 6 con sus respectivas explicaciones. | `Notebook 6-actualizado.ipynb` | 
 | 30/08/2026 | Corrección de errores propios del documento y resolución de los ejercicios 10 en adelante del notebook 7. | `Notebook 6-actualizado.ipynb` `Notebook 7-actualizado.ipynb`  |
 | 04/09/2026 | Adicionar notebooks del 1 al 4 y archivo de practica para profundizar el lenguaje python. | `Notebook 1-actualizado.ipynb` `Notebook 2-actualizado.ipynb` `Notebook 3-actualizado.ipynb` `Notebook 4-actualizado.ipynb` `Practicas_extras.ipynb`|
+| 07/09/2026 | Ejercicios extras numpy, agrego notebook 8 y blackfriday.csv. | `Practicas_extras.ipynb` `Notebook 8-actualizado.ipynb` `blackfriday.csv` |
 
 ---
 
