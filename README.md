@@ -8,7 +8,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-En%20progreso-yellow?style=flat-square)
-![License](https://img.shields.io/badge/Licencia-MIT-green?style=flat-square)
 
 </div>
 
