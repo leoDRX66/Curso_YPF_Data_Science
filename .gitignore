@@ -4,6 +4,8 @@
 # Ignora todos los archivos de la carpeta DataSets excepto los que se indican a continuación
 !DataSets/
 !DataSets/**
+!Docs/
+!Docs/**
 # Ignora todos los archivos de Jupyter Notebook excepto los que se indican a continuación
 !Practicas_extras.ipynb
 !Notebook 1-actualizado.ipynb
@@ -14,5 +16,14 @@
 !Notebook 6-actualizado.ipynb
 !Notebook 7-actualizado.ipynb
 !Notebook 8-actualizado.ipynb
+!Notebook 9-actualizado.ipynb
+!Notebook 10-actualizado.ipynb
+!Notebook 11-actualizado.ipynb
+!Notebook 12-actualizado.ipynb
+!Notebook 13-actualizado.ipynb
+!Notebook 14-actualizado.ipynb
+!Notebook 15-actualizado.ipynb
+!Notebook 16-actualizado.ipynb
+!Notebook 17-actualizado.ipynb
 # Detalla cada librerira que instale para correr los notebooks
 !requirements.txt
