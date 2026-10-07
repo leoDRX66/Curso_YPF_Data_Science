@@ -78,6 +78,7 @@ jupyter notebook
 | 17/09/2026 | Trabajo sobre el notebook 13. | `Notebook 13-actualizado.ipynb` |
 | 24/09/2026 | Corregir errores de notebooks 1 al 13 de enrutamientos con los datasets y agrego .csv necesarios. | `Varios Notebooks` |
 | 24/09/2026 | Creación de la carpetas **Docs** para guardar los archivos de teoria. | `Docs/` |
+| 07/10/2026 | Creación de la carpeta **Graphics** para guardar los graficos proporcionados por los modelos. | `Graphics/` |
 
 > 💡 *Este registro se actualiza a medida que avanza el curso.*
 
