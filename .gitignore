@@ -6,6 +6,8 @@
 !DataSets/**
 !Docs/
 !Docs/**
+!Graphics/
+!Graphics/**
 # Ignora todos los archivos de Jupyter Notebook excepto los que se indican a continuación
 !Practicas_extras.ipynb
 !Notebook 1-actualizado.ipynb
@@ -26,5 +28,6 @@
 !Notebook 16-actualizado.ipynb
 !Notebook 17-actualizado.ipynb
 !Notebook 18-actualizado.ipynb
+!Notebook 19-actualizado.ipynb
 # Detalla cada librerira que instale para correr los notebooks
 !requirements.txt
