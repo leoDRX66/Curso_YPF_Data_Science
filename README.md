@@ -79,6 +79,7 @@ jupyter notebook
 | 24/09/2026 | Corregir errores de notebooks 1 al 13 de enrutamientos con los datasets y agrego .csv necesarios. | `Varios Notebooks` |
 | 24/09/2026 | Creación de la carpetas **Docs** para guardar los archivos de teoria. | `Docs/` |
 | 07/10/2026 | Creación de la carpeta **Graphics** para guardar los graficos proporcionados por los modelos. | `Graphics/` |
+| 30/10/2026 | Resolución de los ejercicios del notebook 19, corrección de rutas de acceso a los datasets y ajuste en la generación de predicciones para la visualización de resultados de regresión. | `Notebook 19-actualizado.ipynb`, `DataSets/` |
 
 > 💡 *Este registro se actualiza a medida que avanza el curso.*
 
