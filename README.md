@@ -80,6 +80,8 @@ jupyter notebook
 | 24/09/2026 | Creación de la carpetas **Docs** para guardar los archivos de teoria. | `Docs/` |
 | 07/10/2026 | Creación de la carpeta **Graphics** para guardar los graficos proporcionados por los modelos. | `Graphics/` |
 | 30/10/2026 | Resolución de los ejercicios del notebook 19, corrección de rutas de acceso a los datasets y ajuste en la generación de predicciones para la visualización de resultados de regresión. | `Notebook 19-actualizado.ipynb`, `DataSets/` |
+| 03/11/2026 | Resolución de los ejercicios del notebook 20 sobre validación cruzada, comparación de modelos de Machine Learning y optimización de hiperparámetros. Corrección de rutas de datasets y compatibilidad de gráficos con versiones recientes de Matplotlib. | `Notebook_20 C16.ipynb`, `DataSets/` |
+| 03/11/2026 | Resolución de los ejercicios del notebook 21 sobre clasificación supervisada, comparación de modelos mediante validación cruzada y técnicas de explicabilidad con SHAP y LIME. Corrección de rutas de datasets, instalación de dependencias y ajustes de compatibilidad con versiones recientes de Scikit-learn. | `Notebook_21 C17.ipynb` |
 
 > 💡 *Este registro se actualiza a medida que avanza el curso.*
 
